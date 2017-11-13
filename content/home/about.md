@@ -12,6 +12,7 @@ weight = 5
   interests = [
     "Model-data fusion",
     "Ecological modelling",
+    "Ecoinformatics",
     "Global change ecology",
     "Carbon cycling",
     "Carbon accounting"
@@ -37,4 +38,5 @@ weight = 5
 
 # Biography
 
-I am a research scientist with broad experience in carbon cycle modelling and data-model fusion. Simulation as well as statistical models have been proven useful in evaluating ecosystems' responses to changes in climate and other drivers as well as for making decisions for ecosystems' management strategies. Through my work I aim to find out how ecosystems respond to the changing drivers (such as atmospheric CO₂, temperature, and moisture regime). To obtain this information I put the knowledge about the ecosystems into mathematical models and ensure their reliability through data-model fusion. 
+I am a research scientist focusing on ecological modelling and model-data fusion. 
+Mathematical models are a useful tool for evaluating ecosystems' responses to changes in environment and are indispensable for making ecological forecasts and developing strategies for ecosystem management. In my work I explore how ecosystems respond to the changing drivers (such as atmospheric CO₂, temperature, and moisture regime), translate this knowledge into mathematical models, and ensure their reliability through data-model fusion. 

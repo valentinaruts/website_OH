@@ -5,6 +5,24 @@
     
     <url>
     
+      <loc>/project/model-data-fusion/</loc>
+      <lastmod>2017-11-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/tree_productivity/</loc>
+      <lastmod>2017-11-12T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/pfc/</loc>
       <lastmod>2017-11-01T00:00:00+00:00</lastmod>
     </url>
@@ -68,24 +86,6 @@
     
     <url>
     
-      <loc>/project/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/project/example-external-project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/post/getting-started/</loc>
       <lastmod>2017-09-03T00:00:00-07:00</lastmod>
     </url>
@@ -131,15 +131,6 @@
     
     <url>
     
-      <loc>/publication/person-re-identification/</loc>
-      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/post/2015-07-23-r-rmarkdown/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     </url>
@@ -149,8 +140,8 @@
     
     <url>
     
-      <loc>/post/migrate-from-jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00-07:00</lastmod>
+      <loc>/publication/gcb_2015/</loc>
+      <lastmod>2015-03-06T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -158,8 +149,26 @@
     
     <url>
     
-      <loc>/publication/clothing-search/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+      <loc>/publication/ecosphere_2014/</loc>
+      <lastmod>2014-12-31T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/jgr_2014/</loc>
+      <lastmod>2014-03-28T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/migrate-from-jekyll/</loc>
+      <lastmod>2014-03-10T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -197,6 +206,16 @@
     
     <url>
     
+      <loc>/tags/carbon-cycling/</loc>
+      <lastmod>2017-11-12T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/categories/</loc>
       <priority>0</priority>
     </url>
@@ -206,8 +225,8 @@
     
     <url>
     
-      <loc>/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <loc>/tags/ecoinformatics/</loc>
+      <lastmod>2017-11-13T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -216,8 +235,8 @@
     
     <url>
     
-      <loc>/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <loc>/tags/ecological-modelling/</loc>
+      <lastmod>2017-11-13T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -246,6 +265,16 @@
     
     <url>
     
+      <loc>/tags/mixed-effects-models/</loc>
+      <lastmod>2017-11-12T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/plot/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
@@ -256,8 +285,18 @@
     
     <url>
     
+      <loc>/tags/productivity/</loc>
+      <lastmod>2017-11-12T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <lastmod>2017-11-13T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

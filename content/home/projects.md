@@ -29,12 +29,12 @@ filter_default = 0
   tag = "*"
   
 [[filter]]
-  name = "Deep Learning"
-  tag = ".deep-learning"
+  name = "Historical Tree Productivity"
+  tag = ".productivity"
 
 [[filter]]
-  name = "Other"
-  tag = ".demo"
+  name = "Model-data fusion"
+  tag = ".Ecoinformatics"
 
 +++
 

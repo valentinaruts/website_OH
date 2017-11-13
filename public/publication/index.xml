@@ -31,21 +31,31 @@
     </item>
     
     <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>/publication/person-re-identification/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <title>Constraining the organic matter decay parameters in the CBM-CFS3 using Canadian National Forest Inventory data and a Bayesian inversion technique</title>
+      <link>/publication/gcb_2015/</link>
+      <pubDate>Fri, 06 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>/publication/person-re-identification/</guid>
+      <guid>/publication/gcb_2015/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Mobile visual clothing search</title>
-      <link>/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <title>Improvement of global litter turnover rate predictions using a Bayesian MCMC approach</title>
+      <link>/publication/ecosphere_2014/</link>
+      <pubDate>Wed, 31 Dec 2014 00:00:00 +0000</pubDate>
       
-      <guid>/publication/clothing-search/</guid>
+      <guid>/publication/ecosphere_2014/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Evaluation and improvement of a global land model against soil carbon data using a Bayesian Markov chain Monte Carlo method</title>
+      <link>/publication/jgr_2014/</link>
+      <pubDate>Fri, 28 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/jgr_2014/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>

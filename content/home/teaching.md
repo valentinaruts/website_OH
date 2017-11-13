@@ -15,14 +15,8 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
+I have taught the following courses/modules:
 
-I am a teaching instructor for the following courses at University X:
-
-- CS101: An intro to computer science
-- CS102: An intro to computer science
-- CS103: An intro to computer science
-- CS104: An intro to computer science
-- CS105: An intro to computer science
-- CS106: An intro to computer science
-- CS107: An intro to computer science
+- *Terrestrial Primary Production* module within "Fundamentals of Ecosystem Ecology" course at Cary Institute of Ecosystem Studies
+- *PBIO 2404: Ecology and Environmental Quality* (Instructor/Lab Instructor) at University of Oklahoma
+- *PBIO 3452: Methods in Plant Ecology* (Instructor) at University of Oklahoma

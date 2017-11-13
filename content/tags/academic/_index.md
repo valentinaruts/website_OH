@@ -11,4 +11,4 @@ caption = ""
 
 +++
 
-Here is a list of all the content that has been tagged as *academic*.
+#Here is a list of all the content that has been tagged as *academic*.

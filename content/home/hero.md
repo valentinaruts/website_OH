@@ -4,7 +4,7 @@ widget = "hero"
 active = false
 date = 2017-10-15
 
-title = "Academic"
+title = "Oleksandra Hararuk"
 
 # Order that this section will appear in.
 weight = 3

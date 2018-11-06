@@ -1,8 +1,7 @@
 +++
 date = 2016-04-18
 draft = false
-# tags = ["academic", "hugo"]
-tags = []
+tags = ["academic", "hugo"]
 title = "Managing content"
 math = false
 +++

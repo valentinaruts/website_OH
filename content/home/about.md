@@ -31,7 +31,7 @@ weight = 5
 
 [[education.courses]]
   course = "BSc in Ecology"
-  institution = "Natinal University Kyiv Mohyla Academy"
+  institution = "National University Kyiv Mohyla Academy"
   year = 2008
  
 +++

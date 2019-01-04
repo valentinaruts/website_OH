@@ -1,6 +1,6 @@
 baseurl = "https://oleksandra.netlify.com/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 title = "Oleksandra Hararuk"
-copyright = "&copy; 2018 Oleksandra Hararuk"
+copyright = "&copy; 2019 Oleksandra Hararuk"
 theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -40,11 +40,11 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Oleksandra (Sasha) Hararuk"
-  role = "Assistant Specialist"
+  role = "Assistant Professor"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of California Irvine", url = "" } ]
+  organizations = [ { name = "University of Central Florida", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "userpic.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -64,7 +64,7 @@ defaultContentLanguageInSubdir = false
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-  logo = "uci_logo.jpg"
+  logo = "ucf_logo.jpg"
 
   # Enable/disable map in Contact widget.
   # To show your address on a map in the contact widget, you need to enter your latitude, longitude and choose
@@ -205,7 +205,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:ohararuk@uci.edu"
+    link = "mailto:ohararuk@ucf.edu"
 
   [[params.social]]
     icon = "twitter"

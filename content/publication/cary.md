@@ -25,7 +25,7 @@ publication_short = "In *JGR-Biogeosciences*"
 abstract = "Formal integration of models and data to test hypotheses about the processes controlling carbon dynamics in lakes is rare, despite the importance of lakes in the carbon cycle. We built a suite of models (n = 102) representing different hypotheses about lake carbon processing, fit these models to data from a north‐temperate lake using data assimilation, and identified which processes were essential for adequately describing the observations. The hypotheses that we tested concerned organic matter lability and its variability through time, temperature dependence of biological decay, photooxidation, microbial dynamics, and vertical transport of water via hypolimnetic entrainment and inflowing density currents. The data included epilimnetic and hypolimnetic CO2 and dissolved organic carbon, hydrologic fluxes, carbon loads, gross primary production, temperature, and light conditions at high frequency for one calibration and one validation year. The best models explained 76–81% and 64–67% of the variability in observed epilimnetic CO2 and dissolved organic carbon content in the validation data. Accurately describing C dynamics required accounting for hypolimnetic entrainment and inflowing density currents, in addition to accounting for biological transformations. In contrast, neither photooxidation nor variable organic matter lability improved model performance. The temperature dependence of biological decay (Q10) was estimated at 1.45, significantly lower than the commonly assumed Q10 of 2. By confronting multiple models of lake C dynamics with observations, we identified processes essential for describing C dynamics in a temperate lake at daily to annual scales, while also providing a methodological roadmap for using data assimilation to further improve understanding of lake C cycling."
 
 # Featured image thumbnail (optional)
-image_preview = ""
+#image_preview = ""
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -60,7 +60,7 @@ highlight = true
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 image = "headers/cary.png"
-caption = "My caption :smile:"
+caption = ""
 
 +++
 

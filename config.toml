@@ -250,7 +250,7 @@ defaultContentLanguageInSubdir = false
   
 [[menu.main]]
   name = "Opportunities"
-  url = "#opportunities"
+  url = "#current_opportunities"
   weight = 5
 
 [[menu.main]]

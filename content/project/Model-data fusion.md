@@ -25,7 +25,6 @@ math = false
 [header]
 image = ""
 caption = "My caption :smile:"
-
+#Brief project description.(below)
 +++
 
-#Brief project description.

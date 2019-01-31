@@ -61,7 +61,7 @@ highlight = true
 [header]
 image = "headers/Ecosphere_2014_1.png"
 caption = ""
-
+#More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.(below)
 +++
 
-#More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
+

@@ -35,6 +35,7 @@ filter_default = 0
 [[filter]]
   tag = ".postdoc"
 
+##Opportunities listed here
 +++
 
-Opportunities listed here
+

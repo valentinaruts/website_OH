@@ -16,6 +16,7 @@ Homepage widgets display as sections on the homepage. They can be enabled/disabl
 - Recent publications
 - Recent news/blog posts
 - Projects
+- Opportunities
 - Selected talks
 - Recent talks
 - Contact

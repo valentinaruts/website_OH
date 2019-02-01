@@ -28,14 +28,15 @@ filter_default = 0
 # name = "All"
 #tag = "*"
 
+[[filter]]
+  name = "Model-data fusion"
+  tag = ".Ecoinformatics"
   
 [[filter]]
   name = "Historical Tree Productivity"
   tag = ".productivity"
 
-[[filter]]
-  name = "Model-data fusion"
-  tag = ".Ecoinformatics"
+
 
 +++
 

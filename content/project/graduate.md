@@ -28,3 +28,7 @@ caption = "My caption :smile:"
 #Brief project description.(below)
 +++
 
+I am looking for graduate students interested in learning modelling and data-model integration techniques while studying carbon cycle dynamics. 
+[Send me an email](ohararuk@ucf.edu) summarizing your background and what motivates you to do research. 
+
+

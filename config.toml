@@ -260,7 +260,7 @@ defaultContentLanguageInSubdir = false
   weight = 5
 
 [[menu.main]]
-  name = "Contact"
+  name = "Connect"
   url = "#contact"
   weight = 6
 

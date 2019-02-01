@@ -29,6 +29,6 @@ caption = "My caption :smile:"
 +++
 
 I am looking for graduate students interested in learning modelling and data-model integration techniques while studying carbon cycle dynamics. 
-[Send me an email](mailto:ohararuk@ucf.edu) summarizing your background and what motivates you to do research. 
+[Send me an email](mailto:ohararuk@ucf.edu) summarizing your background and what motivates you to do research in this field. 
 
 

@@ -27,7 +27,7 @@ image = ""
 caption = "My caption :smile:"
 #Brief project description.(below)
 +++
-If you'd like to learn coding in R and techniques in quantitative analysis through real-world research problems in ecology, [contact me](ohararuk@ucf.edu) for available opportunities.
+If you'd like to learn coding in R and techniques in quantitative analysis through real-world research problems in ecology, [contact me](mailto:ohararuk@ucf.edu) for available opportunities.
 
 
 

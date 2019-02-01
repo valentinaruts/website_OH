@@ -18,7 +18,8 @@ features = ["academic profile",
             "projects",
             "blog",
             "teaching",
-            "contact"
+            "contact",
+            "opportunities"
             ]
 
 [author]

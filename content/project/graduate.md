@@ -6,7 +6,7 @@ date = "2019-01-31"
 title = "Graduate"
 
 # Project summary to display on homepage.
-summary = "Graduate opportunities listed here"
+summary = "Check here for graduate opportunities"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 #image_preview = "tree_rings.jpg"

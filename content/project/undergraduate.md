@@ -6,7 +6,7 @@ date = "2019-01-31"
 title = "Undergraduate"
 
 # Project summary to display on homepage.
-summary = "Undergraduate opportunities listed here"
+summary = "Check here for undergraduate research/training opportunities"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 #image_preview = "tree_rings.jpg"
@@ -27,4 +27,8 @@ image = ""
 caption = "My caption :smile:"
 #Brief project description.(below)
 +++
+
+
+
+
 

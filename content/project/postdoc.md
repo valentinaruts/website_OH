@@ -3,10 +3,10 @@
 date = "2019-01-31"
 
 # Project title.
-title = "Postdoc"
+title = "Postdoctoral opportunities"
 
 # Project summary to display on homepage.
-summary = "Postdoc opportunities listed here"
+summary = "Check here for postdoc opportunities"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 #image_preview = "tree_rings.jpg"

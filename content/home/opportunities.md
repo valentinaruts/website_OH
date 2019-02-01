@@ -25,15 +25,19 @@ filter_default = 0
 # Add or remove as many filters (`[[filter]]` instances) as you like.
 # Use "*" tag to show all projects or an existing tag prefixed with "." to filter by specific tag.
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
-##  name = "Undergraduate"
-## name = "Graduate"
-[[filter]]
-  tag = ".undergraduate"
 
 [[filter]]
+  name = "Graduate"
   tag = ".graduate"
+  
 [[filter]]
+  name = "Graduate"
   tag = ".postdoc"
+  
+[[filter]]
+  name = "Undergraduate"
+  tag = ".undergraduate"
+
 
 ##Opportunities listed here
 +++

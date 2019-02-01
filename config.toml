@@ -176,6 +176,12 @@ defaultContentLanguageInSubdir = false
   [params.projects]
     # List publications and talks related to the project?
     list_children = true
+    
+    
+  # Configuration of project pages.
+  [params.opportunities]
+    # List publications and talks related to the project?
+    list_children = true
 
     # Publication list format.
     #   0 = Simple
@@ -250,7 +256,7 @@ defaultContentLanguageInSubdir = false
   
 [[menu.main]]
   name = "Opportunities"
-  url = "#current_opportunities"
+  url = "#opportunities"
   weight = 5
 
 [[menu.main]]

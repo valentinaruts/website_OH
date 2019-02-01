@@ -13,7 +13,7 @@ summary = "Graduate student opportunitues"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-#tags = ["Ecoinformatics", "ecological modelling"]
+tags = ["Ecoinformatics", "ecological modelling"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

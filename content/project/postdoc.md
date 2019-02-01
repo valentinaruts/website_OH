@@ -29,14 +29,5 @@ caption = "My caption :smile:"
 #testing twitter below
 +++
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">This is a test ?
-  </p>
-  &mdash; Jeff Leek (@TheOtherDrKoval)
-  <a href="https://twitter.com/TheOtherDrKoval">
-    April 12, 2017
-  </a>
-</blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8">
-</script>
+
 

@@ -1,6 +1,6 @@
 +++
-# Projects widget.
-# This widget displays all projects from `content/opportunities/`.
+# Opportunities widget.
+# This widget displays all opportunities from `content/opportunities/`.
 widget = "opportunities"
 active = true
 date = "2019-01-31T00:00:00"

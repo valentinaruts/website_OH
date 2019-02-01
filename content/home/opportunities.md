@@ -29,12 +29,12 @@ filter_default = 0
   tag = "*"
   
 [[filter]]
-  name = "Historical Tree Productivity"
-  tag = ".productivity"
+  name = "Undergraduate"
+  tag = ".undergraduate"
 
 [[filter]]
-  name = "Model-data fusion"
-  tag = ".Ecoinformatics"
+  name = "Graduate"
+  tag = ".graduate"
 
 +++
 

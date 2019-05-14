@@ -2,18 +2,18 @@
 name = "Default"
 
 # Is theme light or dark?
-light = true
+light = true #light or dark text
 
 # Primary
-primary = "#d4af37"
-primary_light = "#d4af37"
-primary_dark = "#b6b6b6"
+primary = "#d4af37" # gold metallic
+primary_light = "#d4af37" # gold metallic
+primary_dark = "#b6b6b6" # gray, highlight of project titles
 
 # Menu
-menu_primary = "#fff"
-menu_text = "#34495e"
-menu_text_active = "#d4af37"
-menu_title = "#2b2b2b"
+menu_primary = "#fff" # White
+menu_text = "#34495e" # color of the text in the upper menu, bluish gray
+menu_text_active = "#d4af37"#gold metallic
+menu_title = "#2b2b2b" #black
 
 # Home sections
 home_section_odd = "rgb(245, 245, 245)"

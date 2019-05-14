@@ -40,8 +40,7 @@ The Ecoinformatics Lab at the University of Central Florida invites applications
 *	analyze model output and performance;  
 *	publish research in peer-reviewed journals and present results at national and international conferences.    
 
-## Questions:
-If you have any questions about this opportunity, feel free to contact [Dr. Sasha Hararuk](mailto:ohararuk@ucf.edu)  
+
 
 ## Basic Requirements:  
 
@@ -62,8 +61,9 @@ Applicants should submit
 
 1. a one-page statement research interests and your qualifications for the position;  
 2. a current CV; and  
-3. three letters of reference (sent directly to ohararuk@ucf.edu).  
+3. three letters of reference (sent directly to [Dr. Sasha Hararuk](mailto:ohararuk@ucf.edu)).  
 
-Review of applications will begin on June 15, 2019 and will continue until the position is filled. The position is intended to be for two years with initial appointment for one year and renewal assuming satisfactory performance. The rate of pay is $50,000 per year. 
+Review of applications will begin on June 15, 2019 and will continue until the position is filled. The position is intended to be for two years with initial appointment for one year and renewal assuming satisfactory performance. The rate of pay is $50,000 per year.  
 
-
+## Questions:
+If you have any questions about this opportunity, feel free to contact [Dr. Sasha Hararuk](mailto:ohararuk@ucf.edu)  

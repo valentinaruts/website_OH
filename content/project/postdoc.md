@@ -61,7 +61,7 @@ Applicants should submit
 
 1. a one-page statement research interests and your qualifications for the position;  
 2. a current CV; and  
-3. three letters of reference (sent directly to [Dr. Sasha Hararuk](mailto:ohararuk@ucf.edu)).  
+3. contact information for three referees (sent directly to [Dr. Sasha Hararuk](mailto:ohararuk@ucf.edu)).  
 
 Review of applications will begin on June 15, 2019 and will continue until the position is filled. The position is intended to be for two years with initial appointment for one year and renewal assuming satisfactory performance. The rate of pay is $50,000 per year.  
 

@@ -1,19 +1,44 @@
-+++
-# Custom widget.
-# An example of using the custom widget to create your own homepage section.
-# To create more sections, duplicate this file and edit the values below as desired.
-widget = "custom"
-active = true
-date = "2016-04-20T00:00:00"
+---
+# An instance of the Pages widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: pages
 
-# Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Teaching"
-subtitle = ""
+# This file represents a page section.
+headless: true
 
-# Order that this section will appear in.
-weight = 50
+# Order that this section appears on the page.
+weight: 70
 
-+++
+title: 'Recent & Upcoming Talks'
+subtitle:
+
+content:
+  # Page type to display. E.g. post, event, publication...
+  page_type: page
+  # Choose how many pages you would like to display (0 = all pages)
+  count: 5
+  # Filter on criteria
+  filters:
+    author: ''
+    category: ''
+    tag: ''
+    exclude_featured: false
+    exclude_future: false
+    exclude_past: false
+    publication_type: ''
+  # Choose how many pages you would like to offset by
+  offset: 0
+  # Page order: descending (desc) or ascending (asc) date.
+  order: desc
+
+design:
+  # Choose a view for the listings:
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   4 = Citation (publication only)
+  view: 2
+---
 
 Instructor
 - COMM 371 Investment Theory (B.Com.), 2021

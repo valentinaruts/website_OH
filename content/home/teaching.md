@@ -15,8 +15,17 @@ weight = 50
 
 +++
 
-I have taught the following courses/modules:
+Instructor
+- COMM 371 Investment Theory (B.Com.), 2021
 
-- *Terrestrial Primary Production* module within "Fundamentals of Ecosystem Ecology" course at Cary Institute of Ecosystem Studies
-- *PBIO 2404: Ecology and Environmental Quality* (Instructor/Lab Instructor) at University of Oklahoma
-- *PBIO 3452: Methods in Plant Ecology* (Instructor) at University of Oklahoma
+Teaching Assistant
+- COEC 371 Investment Theory (B.Com.), 2022
+- BAFI 502 Corporate Finance (MBA), 2019-2022
+- BAFI 500 Introductory Finance (MBA), 2018-2020
+- COMM 486Q Advanced Corporate Finance (B.Com.), 2018-2019
+- COMM 371 Investment Theory (B.Com.), 2018-2019
+
+
+
+
+
